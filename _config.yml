@@ -4,21 +4,6 @@ author: Bruce Moran
 
 theme: jekyll-theme-minimal
 
-navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - Ovarian Cancer TIGIT Expression: "https://brucemoran.github.io/kglennon_tigit"
-    - Glaucoma Cell-line Data Analysis: "https://brucemoran.github.io/cobrien_glaucoma"
-
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "_assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
 social-network-links:
   email: "bruce01campus@gmail.com"
   github: brucemoran
