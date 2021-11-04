@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## I stole the layout for my page from the medium link below
 
 ### Introduction
 
