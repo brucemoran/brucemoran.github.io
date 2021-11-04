@@ -1,48 +1,7 @@
-# Stolen from:https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# Analysis Projects
 
-# --- Required options --- #
+## [Ovarian Cancer TIGIT Expression](https://brucemoran.github.io/kglennon_tigit)
 
-# Name of website
-title: Bruce Moran, Bioinformatics
+## [Glaucoma Cell-line Data Analysis](https://brucemoran.github.io/cobrien_glaucoma)
 
-# Your name to show in the footer
-author: Bruce Moran
-
-# Theme
-
-theme: jekyll-theme-minimal
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - Ovarian Cancer TIGIT Expression: "https://brucemoran.github.io/kglennon_tigit"
-    - Glaucoma Cell-line Data Analysis: "https://brucemoran.github.io/cobrien_glaucoma"
-
-# --- Logo --- #
-
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-
-# --- Footer social media links --- #
-
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "bruce01campus@gmail.com"
-  github: brucemoran
-  twitter: bruler0111
-  ORCID: 0000-0002-7266-0265
-
-# --- General options --- #
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  github: true
-  ORCID: true
+## [CHarmon TCGA Survival](https://brucemoran.github.io/charmon_tcga/)
